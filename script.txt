@@ -1,0 +1,13 @@
+#DA_FONTS 1.1 - Intro to Da fonts
+#DA_FONTS 1.2 - Example Da font include in a template copy
+#DA_FONTS 1.3 - Outro to Da fonts
+
+
+
+#VIDEO_TEMPLATE 1.1 - Intro to Da fonts
+Hey Chris from Codify Academy here, in this video I'm going to show you how to include any Da font into a project.
+
+#GOOGLE_FONTS 1.2 - Da Google font include in a template copy
+
+#GOOGLE_FONTS 1.3 - Outro to Da fonts
+Well that's it for now, take some time now and try this out.
